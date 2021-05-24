@@ -1,0 +1,7 @@
+Comandos.
+
+* ctrl + space = columna completa.(Vertical)
+* shift + space = row completa.(Horizontal)
+* ctrl + (+) = Mover a la derecha o hacia abajo  dependiendo su posicion(Horizontal o vertical).
+*De acuerdo a lo sombreado (vertical - horizontal), se puede agregar una columna con: Crtl + "+"
+* ctrl + alt + k = Enlace.
