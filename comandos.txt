@@ -3,5 +3,13 @@ Comandos.
 * ctrl + space = columna completa.(Vertical)
 * shift + space = row completa.(Horizontal)
 * ctrl + (+) = Mover a la derecha o hacia abajo  dependiendo su posicion(Horizontal o vertical).
-*De acuerdo a lo sombreado (vertical - horizontal), se puede agregar una columna con: Crtl + "+"
+* De acuerdo a lo sombreado (vertical - horizontal), se puede agregar una columna con: Crtl + "+"
 * ctrl + alt + k = Enlace.
+* ctrl + shift : --> Es para poner la hora Actual.
+* ctrl + . + , --> Para poner la fecha actual.
+* Crtl + Re Pág --> Es para retroceder una hoja.
+* Crtl + Av Pág--> Es para avanzar una Hoja.
+* Crtl + e --> Selecciona todo, dentro que esta seleccionado.
+* Crt + Bloq + 1 --> Redirige el formato.
+* Crt + bloq + 5 --> Coloca, una tachada dentro de la letra.
+* Seleccionar el módulo "Fórmulas", despues seleccionar donde dice: "Matemáticas y Trigonométricas" y despues buscas donde dice Suma --> Sirve para sumar por Columnas.
